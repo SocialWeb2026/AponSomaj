@@ -1,0 +1,6 @@
+{
+  "name": "আপন সমাজ | Apon Somaj - মানুষের জন্য মানুষ",
+  "description": "আপন সমাজ (Apon Somaj) — মানুষের জন্য মানুষ। সামাজিক যোগাযোগ, স্থানীয় কমিউনিটি, রিলস, চাকরি, মার্কেটপ্লেস ও লোকেশনভিত্তিক সামাজিক প্ল্যাটফর্ম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
